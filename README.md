@@ -70,7 +70,6 @@ public class Ahmed : Developer
 
 <img src="https://streak-stats.demolab.com?user=Ahmedelnmr&theme=radical&hide_border=true&background=0d1117" alt="Streak stats" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmedelnmr&theme=radical&no-frame=true&no-bg=true&column=7" alt="Trophies" />
 
 </div>
 
