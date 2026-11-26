@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile-photo.jpg" width="150" height="150" style="border-radius:50%" alt="Ahmed Elnmr" />
+<img src="https://github.com/Ahmedelnmr.png?size=300" width="150" height="150" alt="Ahmed Elnmr" />
 
 # Hi, I'm Ahmed Elsayed (Elnmr)
 
