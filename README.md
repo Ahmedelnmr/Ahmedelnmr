@@ -41,7 +41,7 @@ public class Ahmed : Developer
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,azure,mssql,js,html,css,bootstrap,php,laravel,git,github,postman&perline=13" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,js,html,css,bootstrap,php,laravel,git,github,postman&perline=13" alt="Tech stack icons" />
 
 </div>
 
